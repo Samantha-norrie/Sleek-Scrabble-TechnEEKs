@@ -1,8 +1,0 @@
-  <div class="click">
-    <form action="/a_finder.js">
-      <label for="letter">Find two letter words with:</label>
-      <input type="text" id="letter" name="letter"><br><br>
-      <input type="submit" value="Find Words">
-      <div id="result">       
-      </div>
-    </form>
