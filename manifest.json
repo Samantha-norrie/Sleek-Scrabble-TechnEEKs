@@ -1,0 +1,5 @@
+{ "name": "Sleek SCRABBLE TechnEEKs, "version": "1.0",
+"manifest_version": 2, 
+"description": "A few helpful lists for SCRABBLE.",
+"browser_action": { "default_icon": "word_icon.png",
+"default_popup": "message_popup.html"} }
